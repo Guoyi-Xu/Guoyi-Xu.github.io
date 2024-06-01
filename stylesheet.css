@@ -83,8 +83,8 @@ a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 1.2;         /* Guoyi added. */
-  margin-top: 0.2;            /* Guoyi added. */
-  margin-bottom: 0.2em;       /* Guoyi added. */
+  margin-top: 0.5em;            /* Guoyi added. */
+  margin-bottom: 0.5em;       /* Guoyi added. */
 }
 
 strong {

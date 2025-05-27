@@ -139,8 +139,8 @@ span.highlight {
 
 div.text-box {
     width: 100%;
-    padding: 2.5px;
-    border: 2.5px solid #007bff;
+    padding: 0px;
+    border: 2px solid #007bff;
     color: #f5f8ff;
     margin: 0;
 }
